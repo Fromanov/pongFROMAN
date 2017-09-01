@@ -1,6 +1,6 @@
 player1 = {}
 player2 = {}
-ball = {}
+ball = {} --Hey
 
 function love.load()
 
